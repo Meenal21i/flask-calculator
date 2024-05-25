@@ -2,7 +2,7 @@
 
 This is a simple calculator application built using Flask.
 
-![Calculator Screenshot](images/screenshot.png)
+![Calculator Screenshot](https://github.com/Meenal21i/flask-calculator/blob/master/Calculator_image.png)
 
 # How to run this project - Flask-Calculator
 
