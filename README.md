@@ -26,3 +26,6 @@ python app.py
 
 ### Open the Application:
 Open your web browser and go to http://127.0.0.1:5000/ to use the calculator.
+
+## Watch demo 
+Via "Calculator by Meenal - Google Chrome.mp4" file attached.
